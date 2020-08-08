@@ -10,11 +10,11 @@ url: "https://janczizikow.github.io/" # the base hostname & protocol for your si
 
 # SEO PLUGIN
 social:
-  name: Your Name
+  name: Lucas van Wyk
   links:
     - https://twitter.com/BenBalter
-    - https://www.facebook.com/ben.balter
-    - https://www.linkedin.com/in/BenBalter
+    - https://www.facebook.com/lucas.vanwyk.5
+    - https://www.linkedin.com/in/lucas-van-wyk-449745148/
     - https://plus.google.com/+BenBalter
     - https://github.com/benbalter
     - https://keybase.io/benbalter
@@ -26,7 +26,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Modern Jekyll theme focused on speed performance &amp; SEO best practices
+  Exploring Deep Learning Together
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
